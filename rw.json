@@ -1,0 +1,29 @@
+{"success":true,"message":"","radios":
+
+[
+
+{"id":"14371","number":"1","name":"Radio10","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_1.png","streamUrl":"http://radio10-876fm.ice.infomaniak.ch/radio10-kigali.mp3","yourmuzeId":null,"state":"1"},
+{"id":"14372","number":"2","name":"Radio Rwanda","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_2.jpg","streamUrl":"http://197.243.48.252:8000/;","yourmuzeId":null,"state":"1"},
+{"id":"14373","number":"3","name":"Radio Flash FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_3.jpg","streamUrl":"http://80.241.215.175:7410/;","yourmuzeId":null,"state":"1"},
+{"id":"14374","number":"4","name":"Magic Fm","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_4.jpg","streamUrl":"http://197.243.48.252:8080/;","yourmuzeId":null,"state":"1"},
+{"id":"14375","number":"5","name":"Isango Star","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_5.png","streamUrl":"http://80.241.215.175:8000/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"14376","number":"6","name":"KT Radio","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_6.png","streamUrl":"http://197.243.1.130:8006/k2dlivemp3","yourmuzeId":null,"state":"1"},
+{"id":"14377","number":"7","name":"Radio Maria Rwanda","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_7.png","streamUrl":"http://dreamsiteradiocp2.com:8098/;audio.mp3","yourmuzeId":null,"state":"1"},
+{"id":"14378","number":"8","name":"Radio Salus","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_8.jpg","streamUrl":"http://salus.nur.ac.rw:8006/saluslive?type=.mp3","yourmuzeId":null,"state":"1"},
+{"id":"14379","number":"9","name":"Imbaraga Radio","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//ImbaragaRadio.jpg","streamUrl":"http://66.55.145.43:7473/stream","yourmuzeId":null,"state":"1"},
+{"id":"14380","number":"10","name":"KISS FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_10.jpg","streamUrl":"http://node-15.zeno.fm/pfxu6g1u2qruv","yourmuzeId":null,"state":"1"},
+{"id":"14381","number":"11","name":"Radio Rusizi","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//radiorusizirwanda.jpg","streamUrl":"http://197.243.48.252:9000/;","yourmuzeId":null,"state":"1"},
+{"id":"15954","number":"15","name":"Royal FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//rwanda_15.jpg","streamUrl":"http://80.241.215.175:3000/;","yourmuzeId":null,"state":"1"},
+{"id":"15955","number":"16","name":"Radio Rubavu","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//rwanda_16.jpg","streamUrl":"http://197.243.48.252:4000/;","yourmuzeId":null,"state":"1"},
+{"id":"15956","number":"17","name":"Radio Inteko","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//rwanda_17.jpg","streamUrl":"http://197.243.48.252:7000/;","yourmuzeId":null,"state":"1"},
+{"id":"15957","number":"18","name":"Radio Nyagatare 95.5 FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//rwanda_18.jpg","streamUrl":"http://197.243.48.252:3050/rcnyagatare","yourmuzeId":null,"state":"1"},
+{"id":"15958","number":"19","name":"Radio Huye","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//rwanda_19.jpg","streamUrl":"http://197.243.48.252:2000/","yourmuzeId":null,"state":"1"},
+{"id":"15959","number":"20","name":"Radio Musanze","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//rwanda_20.jpg","streamUrl":"http://197.243.48.252:5000/;","yourmuzeId":null,"state":"1"},
+{"id":"14382","number":"12","name":"Radio Izuba","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_12.jpg","streamUrl":"","yourmuzeId":null,"state":"0"},
+{"id":"14383","number":"13","name":"INYENYERI RADIO","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_13.png","streamUrl":"","yourmuzeId":null,"state":"0"},
+{"id":"14384","number":"14","name":"Intashyo Radio","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//z_radio_rwanda_14.png","streamUrl":"","yourmuzeId":null,"state":"0"},
+{"id":"15960","number":"21","name":"Radio Isangano","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//rwanda_21.jpg","streamUrl":"","yourmuzeId":null,"state":"0"},
+{"id":"15961","number":"22","name":"City Radio","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//rwanda_22.jpg","streamUrl":"","yourmuzeId":null,"state":"0"},
+{"id":"15962","number":"23","name":"Umucyo Radio","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/rw/master//rwanda_23.jpg","streamUrl":"","yourmuzeId":null,"state":"0"}
+
+],"country":{"id":"126","name":"rwanda","logo":"../../_upload/_flags/rwanda.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
